@@ -1,7 +1,7 @@
 ---
 model_info:
   name: Тестовий набір шкал та питань для розробки коду опитування
-  source: https://github.com/obyrai/test-json/
+  source: https://github.com/obyrai/obyrai-questions/
   timestamp: ""
   branch: ""
   commit_hash: ""
